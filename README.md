@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Samir Ali<br><br>A passionate Frontend Developer with a strong foundation in Java and modern web technologies. I specialize in building responsive, user-friendly, and SEO-optimized web applications.<br><br>💻 Skilled in:<br>- HTML, CSS, JavaScript<br>- Bootstrap, jQuery<br>- Core Java, JDBC, Hibernate, Spring<br><br>🚀 What I do:<br>- Build fully responsive websites (mobile, tablet, desktop)<br>- Create clean UI/UX with real-world usability<br>- Develop frontend projects with scalable structure<br><br>🌱 Currently Learning:<br>- Advanced Java & Backend Development<br>- Full Stack Web Development<br><br>📌 Projects:<br>- Prime Local Services – Local service directory platform<br>- Web UI projects and JavaScript challenges<br><br>🎯 Goal:<br>To become a Full Stack Java Developer and contribute to real-world, scalable applications.<br><br>📫 Connect with me:<br>- LinkedIn: https://linkedin.com/in/alisamir025<br>- Portfolio:
+I'm Samir Ali<br><br>A passionate Frontend Developer with a strong foundation in Java and modern web technologies. I specialize in building responsive, user-friendly, and SEO-optimized web applications.<br><br>📫 Connect with me:<br>- LinkedIn: https://linkedin.com/in/alisamir025<br>- Portfolio:
 
 
 ## 🌐 Socials:
